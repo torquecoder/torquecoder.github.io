@@ -1,2 +1,3 @@
-var s = skrollr.init();
-s.refresh($('.homeSlide'));
+$(document).ready(function(){
+  $('.parallax').parallax();
+});
