@@ -1,0 +1,81 @@
+# Site
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+favicon: images/favicon.ico
+
+# Personal info
+name: Shubham Singhal
+title: Software Engineer
+email: torquecode@gmail.com
+# phone: Your phone number (optional)
+website: torquecoder.github.io
+
+# Social links
+twitter_username: torque_san
+github_username:  torquecoder
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: ninja_memer
+linkedin_username: torquecode
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Shubham and I'm currently a SWE at Google Bangalore. I like to build large scale distributed systems.
+  Apart from making awesome software systems, I love solo travelling around the globe.
+
+  I am most skilled in <mark>devouring pizza</mark> and <mark>gulping coke</mark>
+
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
+# More Section
+# more_title: A Little More About Me #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in software engineering and travelling, some of my other interests and hobbies are:
+   - Binge watching anime
+   - Browsing reddit aimlessly for hours
+   - Blockchain technology (If you trust math then trust bitcoin)
+   - FPS gaming
+   - Working out (six pack abs coming soon!!)
+
+# Resume Section
+# resume_title: Resume #(Use this to override resume section title)
+
+# Footer
+footer_show_references: true
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]

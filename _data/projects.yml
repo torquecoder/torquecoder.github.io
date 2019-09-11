@@ -1,0 +1,20 @@
+# Project template
+- layout: top-middle
+  name: Dorylus
+  # link: https://github.com/torquecoder/dorylus
+  github: torquecoder/dorylus
+  quote: >
+    that cool blockchain project
+  description: | # this will include new lines to allow paragraphs
+    A decentralized, serverless blogging WEB 3.0 app built on top of Ethereum platform. 
+    It leverages IPFS, MetaMask and Web3.js. It gives you the ownership of your content and a platform where you can incentivize your content. 
+    Viewers can also tip off the writers for the blogs they publish. The platform establishes its own custom ERC20 token called Tsukiyomi to rally the community around.
+
+- layout: top-middle
+  name: ChessVista
+  # link: https://github.com/torquecoder/ChessVista
+  github: torquecoder/ChessVista
+  quote: >
+    another dope ml/ai project
+  description: | # this will include new lines to allow paragraphs
+    Web app which uses Convolutional Neural Network to detect chess board and different types of pieces present in an image and allows user to bring the game from a snapshot to playable game on screen.

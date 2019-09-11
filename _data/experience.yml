@@ -1,0 +1,32 @@
+# Experience template
+- layout: left
+  company: Google
+  logo: images/google.png
+  link: google.com
+  job_title: Software Engineer II
+  dates: September 2019 - Present
+  quote: >
+   Our mission is to organise the world’s information and make it universally accessible and useful
+  description: | # this will include new lines to allow paragraphs
+    Part of gStore team.
+
+- layout: left
+  company: Flipkart
+  logo: images/flipkart.jpg
+  link: flipkart.com
+  job_title: Software Development Engineer I
+  dates: July 2018 - September 2019
+  quote: >
+   Redefining the way India shops online
+  description: | # this will include new lines to allow paragraphs
+    Winner of Crio DevAccelerator program in Flipkart’s inaugural JEDI bootcamp.
+
+    Part of Jeeves team at Flipkart which handles post delivery services.
+
+    Worked on solutioning and designing of an offline first technician app.
+
+    Made a logging library for common logging standard across all our microservices and easy lifecycle tracking though logs and Elastic stack.
+    
+    Critical backend and frontend development to enhance business reporting.
+    
+    Single-handedly took care of the infrastructure and database hygiene of the team.
