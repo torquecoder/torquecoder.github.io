@@ -1,0 +1,14 @@
+# Education Template
+- layout: left
+  name: NIT Kurukshetra, India
+  logo: images/nitkkr.png
+  dates: 2014 - 2018
+  qualification: B.Tech Information Technology
+  quote: >
+    Institution of National Importance
+  description: | # this will include new lines to allow paragraphs
+    During my time at *NIT Kurukshetra*, I learnt most of my key skills that have have taken me through my career. I thouroughly enjoyed my time at college and learnt a lot about a healthy work life balance.
+
+    I spent a lot of my free time doing programming and teaching my juniors as well.
+
+    I graduated with a CGPA of 8.1473

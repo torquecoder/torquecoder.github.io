@@ -1,0 +1,7 @@
+<div class="container resume-container">
+    <h3>{{ site.resume_title | default: "Still want my PDF resume?" }}</h3>
+    {% for resume in site.data.resume %}
+        {% include {{ resume.layout | default: 'top-middle' | append: ".html" }} item=resume %}
+    {% endfor %}
+</div>
+      
